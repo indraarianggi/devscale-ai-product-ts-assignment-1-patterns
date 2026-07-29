@@ -5,7 +5,9 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "case1": "tsx src/case-1-billing-support.ts",
+    "case2": "tsx src/case-2-meeting-transcript.ts",
+    "case3": "tsx src/case-3-company-profile.ts"
   },
   "keywords": [],
   "author": "",
